@@ -1,7 +1,7 @@
 - 👋 Hi, I’m fadoua maouli
 - 👀 I’m interested in cloud
 - 🌱 I’m currently learning programming networks & cloud computing
-- 💞️ I’m looking to collaborate on PFE syage
+- 💞️ I’m looking to collaborate on PFE intership
 - 📫 How to reach me fadoua.maouli@gmail.com
 
 <!---
